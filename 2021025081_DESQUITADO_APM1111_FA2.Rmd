@@ -92,7 +92,7 @@ $$
 
 ---
 
-### Find the Geometric Mean of the sets (a) 3, 5, 8, 3, 7, 2 and (b) 28.5, 73.6, 47.2, 31.5, 64.8.
+### 3.90 Find the Geometric Mean of the sets (a) 3, 5, 8, 3, 7, 2 and (b) 28.5, 73.6, 47.2, 31.5, 64.8.
 
 (a)
 $$
